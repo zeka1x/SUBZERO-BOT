@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put your Subzero session-id here.",
       "required": true,
-      "value": ""
+      "value": "SILENT-SOBX-MD~aBhFFYJT#jdS2l649bHN81dA6ejz7PZgxg_r_lMdjuWrW9my0zFk"
     },  
     
     "STICKER_NAME": {
